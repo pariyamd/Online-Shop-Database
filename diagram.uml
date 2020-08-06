@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.factor</OriginalElement>
+  <nodes>
+    <node x="126.5" y="466.0">9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.list</node>
+    <node x="0.0" y="0.0">9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.user</node>
+    <node x="191.0" y="22.0">9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.producer</node>
+    <node x="184.5" y="233.0">9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.product</node>
+    <node x="11.0" y="266.0">9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.factor</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.factor" target="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.user">
+      <point x="0.0" y="-58.5" />
+      <point x="0.0" y="91.5" />
+    </edge>
+    <edge source="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.list" target="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.factor">
+      <point x="-27.25" y="-69.5" />
+      <point x="153.75" y="441.0" />
+      <point x="85.5" y="441.0" />
+      <point x="0.0" y="58.5" />
+    </edge>
+    <edge source="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.list" target="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.product">
+      <point x="27.25" y="-69.5" />
+      <point x="208.25" y="441.0" />
+      <point x="276.5" y="441.0" />
+      <point x="0.0" y="91.5" />
+    </edge>
+    <edge source="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.product" target="9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.producer">
+      <point x="0.0" y="-91.5" />
+      <point x="0.0" y="69.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8416" x="184.5" y="302.5" />
+  <SelectedNodes>
+    <node>9aa0e29d-64f1-47ae-bc3c-48e39e346b9b.TABLE:project.user</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
