@@ -19,4 +19,4 @@ in order to test the proficiency of our database we have to work with some data,
 At last, we can extract information by making queries and views. Each query is explained in the comments of "queries.sql"s codes.
 ### UML diagrams
 
-[umldiagram](https://github.com/pariyamd/Online-Shop-Database/blob/master/diagram.uml)
+[umldiagram](https://github.com/pariyamd/Online-Shop-Database/blob/master/diagram.png)
