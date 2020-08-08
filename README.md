@@ -17,6 +17,6 @@ we need the following tables:
 in order to test the proficiency of our database we have to work with some data, so the second step is inserting new instances, code in inserts.sql
 ### 3.Extracting & reporting information:
 At last, we can extract information by making queries and views. Each query is explained in the comments of "queries.sql"s codes.
-### UML diagrams
-
-[umldiagram](https://github.com/pariyamd/Online-Shop-Database/blob/master/diagram.uml)
+### UML diagram
+you can see the chosen private and foreign keys
+<img src="https://github.com/pariyamd/Online-Shop-Database/blob/master/diagram.png" alt="drawing" width="400"/>
